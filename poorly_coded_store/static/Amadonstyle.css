@@ -1,0 +1,12 @@
+table{
+    border: 2px solid black;
+    padding: 5px;
+    border-radius: 10px;
+}
+td{
+    padding: 5px 20px;
+}
+input {
+    border-radius: 5px;
+    box-shadow: 3px 3px black;
+}
